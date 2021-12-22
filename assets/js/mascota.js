@@ -24,7 +24,7 @@ export class Mascota extends Animal {
   get nombreMascota() {
     return this._nombreMascota;
   }
-  set nombre(nombre) {
+  set nombreMascota(nombre) {
     this._nombreMascota = nombreMascota;
   }
 
